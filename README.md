@@ -1,4 +1,5 @@
 # AGE-Gender-Detection
- AGE GENDER Detection using openCV
- ![age-gender] (https://github.com/Pavankunchala/AGE-Gender-Detection/blob/main/age.jpg)
+AGE GENDER Detection using openCV, I have used openCV and caffe models for the detection
+
+![age-gender-img](https://github.com/Pavankunchala/AGE-Gender-Detection/blob/main/age.jpg)
  
